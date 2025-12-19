@@ -1,3 +1,9 @@
+body {
+    background-color: #f0f;
+    background-image: url("iceberg.jpg");
+    text-align:center;
+}
+
 h3 {
-    background-color:grey;
+
 }
